@@ -1,0 +1,12 @@
+body { font-family: "Noto Sans JP"; }
+
+.hannari { font-family: "Hannari"; }
+
+header {
+
+}
+
+#google-map-blizzard {
+    height: 100%;
+    width: 100%;
+}
